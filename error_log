@@ -1,0 +1,98 @@
+[24-Mar-2017 00:12:42 America/Chicago] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/tina/public_html/328/hello/index.php on line 3
+[24-Mar-2017 00:12:42 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php54/lib/php') in /home/tina/public_html/328/hello/index.php on line 3
+[24-Mar-2017 00:18:59 America/Chicago] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/tina/public_html/328/hello/index.php on line 3
+[24-Mar-2017 00:18:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php54/lib/php') in /home/tina/public_html/328/hello/index.php on line 3
+[24-Mar-2017 00:23:12 America/Chicago] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/tina/public_html/328/hello/index.php on line 3
+[24-Mar-2017 00:23:12 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php54/lib/php') in /home/tina/public_html/328/hello/index.php on line 3
+[24-Mar-2017 00:24:57 America/Chicago] No routes specified
+[27-Mar-2017 13:28:40 America/Chicago] include(page1html): failed to open stream: No such file or directory
+[27-Mar-2017 13:28:51 America/Chicago] include(page1.html): failed to open stream: No such file or directory
+[27-Mar-2017 13:29:44 America/Chicago] include(page1.html): failed to open stream: No such file or directory
+[27-Mar-2017 13:31:22 America/Chicago] include(page1.html): failed to open stream: No such file or directory
+[27-Mar-2017 13:54:34 America/Chicago] Missing argument 2 for Base::redirect(), called in /home/tina/public_html/328/hello/index.php on line 42 and defined
+[27-Mar-2017 13:57:45 America/Chicago] HTTP 404 (GET /language/russian)
+[27-Mar-2017 14:05:05 America/Chicago] HTTP 404 (GET /tina)
+[27-Mar-2017 16:26:40 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tina/public_html/328/hello/index.php on line 8
+[27-Mar-2017 17:45:17 America/Chicago] PHP Fatal error:  Call to a member function render() on a non-object in /home/tina/public_html/328/hello/index.php on line 40
+[27-Mar-2017 17:45:17 America/Chicago] Fatal error: Call to a member function render() on a non-object
+[27-Mar-2017 17:45:17 America/Chicago] [328/hello/index.php:40] 
+[11-Apr-2017 22:09:03 America/Chicago] HTTP 404 (GET /pets/dog)
+[02-May-2017 00:33:25 America/Chicago] PHP Fatal error:  Class 'users\Address' not found in /home/tina/public_html/328/hello/index.php on line 52
+[02-May-2017 00:33:25 America/Chicago] Fatal error: Class 'users\Address' not found
+[02-May-2017 00:37:51 America/Chicago] PHP Fatal error:  Class 'classes' not found in /home/tina/public_html/328/hello/index.php on line 52
+[02-May-2017 00:37:51 America/Chicago] Fatal error: Class 'classes' not found
+[02-May-2017 00:39:24 America/Chicago] Unable to open info.html
+[02-May-2017 00:39:24 America/Chicago] [328/hello/index.php:56] Preview->render()
+[02-May-2017 00:39:24 America/Chicago] [328/hello/index.php:60] Base->run()
+[02-May-2017 00:42:46 America/Chicago] PHP Fatal error:  Cannot access protected property Pet::$name in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 41
+[02-May-2017 00:42:46 America/Chicago] Fatal error: Cannot access protected property Pet::$name
+[02-May-2017 00:42:46 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:41] 
+[05-May-2017 12:40:52 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 16
+[05-May-2017 12:40:52 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:40:52 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:16] 
+[05-May-2017 12:41:57 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 16
+[05-May-2017 12:41:57 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:41:57 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:16] 
+[05-May-2017 12:42:36 America/Chicago] Unable to open files/myfile.html
+[05-May-2017 12:42:36 America/Chicago] [328/hello/index.php:20] View->render()
+[05-May-2017 12:42:36 America/Chicago] [328/hello/index.php:94] Base->run()
+[05-May-2017 12:43:35 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 16
+[05-May-2017 12:43:35 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:43:35 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:16] 
+[05-May-2017 12:44:19 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 16
+[05-May-2017 12:44:19 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:44:19 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:16] 
+[05-May-2017 12:44:38 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 16
+[05-May-2017 12:44:38 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:44:38 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:16] 
+[05-May-2017 12:45:02 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 18
+[05-May-2017 12:45:02 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:45:02 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:18] 
+[05-May-2017 12:45:55 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 19
+[05-May-2017 12:45:55 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:45:55 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:19] 
+[05-May-2017 12:46:11 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 21
+[05-May-2017 12:46:11 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:46:11 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:21] 
+[05-May-2017 12:46:35 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 21
+[05-May-2017 12:46:35 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:46:35 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:21] 
+[05-May-2017 12:47:04 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 21
+[05-May-2017 12:47:04 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:47:04 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:21] 
+[05-May-2017 12:48:29 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 19
+[05-May-2017 12:48:29 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:48:29 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:19] 
+[05-May-2017 12:52:15 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_STRING) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php on line 19
+[05-May-2017 12:52:15 America/Chicago] Fatal error: syntax error, unexpected '' (T_STRING)
+[05-May-2017 12:52:15 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.2hbmt1l6jeqsc.php:19] 
+[05-May-2017 14:46:30 America/Chicago] HTTP 404 (POST /templating/results)
+[05-May-2017 14:46:30 America/Chicago] [328/hello/index.php:97] Base->run()
+[05-May-2017 14:47:01 America/Chicago] HTTP 405 (POST /templating/new-pet)
+[05-May-2017 14:47:01 America/Chicago] [328/hello/index.php:97] Base->run()
+[05-May-2017 23:23:55 America/Chicago] HTTP 405 (GET /templating/new-pet)
+[05-May-2017 23:23:55 America/Chicago] [328/hello/index.php:93] Base->run()
+[05-May-2017 23:24:18 America/Chicago] HTTP 404 (GET /templating/new-pet)
+[05-May-2017 23:24:18 America/Chicago] [328/hello/index.php:93] Base->run()
+[05-May-2017 23:25:50 America/Chicago] HTTP 404 (GET /templating/new-pet)
+[05-May-2017 23:25:50 America/Chicago] [328/hello/index.php:93] Base->run()
+[05-May-2017 23:42:44 America/Chicago] HTTP 404 (POST /templating/templating/new-pet)
+[05-May-2017 23:42:44 America/Chicago] [328/hello/index.php:93] Base->run()
+[05-May-2017 23:45:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 31
+[05-May-2017 23:45:13 America/Chicago] Fatal error: syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';'
+[05-May-2017 23:45:13 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:31] 
+[05-May-2017 23:56:10 America/Chicago] PHP Parse error:  syntax error, unexpected '-', expecting ')' in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 58
+[05-May-2017 23:56:10 America/Chicago] Fatal error: syntax error, unexpected '-', expecting ')'
+[05-May-2017 23:56:10 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:58] 
+[06-May-2017 00:07:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$colorOption' (T_VARIABLE) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 54
+[06-May-2017 00:07:22 America/Chicago] Fatal error: syntax error, unexpected '$colorOption' (T_VARIABLE)
+[06-May-2017 00:07:22 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:54] 
+[06-May-2017 00:12:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$colorOption' (T_VARIABLE) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 54
+[06-May-2017 00:12:12 America/Chicago] Fatal error: syntax error, unexpected '$colorOption' (T_VARIABLE)
+[06-May-2017 00:12:12 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:54] 
+[06-May-2017 00:12:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$colorOption' (T_VARIABLE) in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 54
+[06-May-2017 00:12:16 America/Chicago] Fatal error: syntax error, unexpected '$colorOption' (T_VARIABLE)
+[06-May-2017 00:12:16 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:54] 
+[06-May-2017 16:21:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 32
+[06-May-2017 16:21:29 America/Chicago] Fatal error: syntax error, unexpected '}'
+[06-May-2017 16:21:29 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:32] 
